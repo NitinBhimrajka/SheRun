@@ -1,1 +1,2 @@
 # SheRun
+Endless runner game
